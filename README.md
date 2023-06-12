@@ -1,16 +1,16 @@
-# Exp 10 Create a Gliding box using CSS Animation
-## AIM:
-To write html & css code to create Gliding box using CSS Animation.
-## PROCEDURE:
-### STEP 1:
+# Exp-10-Create-a-Gliding-box-using-CSS-Animation
+## Aim:
+To write HTML & CSS code to create Gliding box using CSS Animation.
+## Algorithm:
+### Step 1:
 Create a html code for the animation.
-### STEP 2:
+### Step 2:
 Make gliding box for the Web Layout using seprate css file.
-### STEP 3:
+### Step 3:
 Include Style in the html uing link tag.
-### STEP 4:
+### Step 4:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
+## Program:
 ### HTML:
 ```html
 <!DOCTYPE html>
@@ -48,10 +48,10 @@ Verify the output by running the Web-Layout in any web browser.
     }
   }
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX10/assets/93427303/8f12abbf-dd49-4369-be3c-2aed954938cc)
 
 ![image](https://github.com/Karthikeyan21001828/MERN_EX10/assets/93427303/487a21e7-1d05-41a1-85d2-b772868019c1)
 
-## RESULT:
-html & css code to create Gliding box using CSS Animation has been created and output has been verified.
+## Result:
+Thus the HTML & CSS code to create Gliding box using CSS Animation has been created and output has been verified.
